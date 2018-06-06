@@ -1,0 +1,11 @@
+loop = 1 
+lambda = 5.000000e-05, mu = 0.10000
+loop = 1 
+lambda = 5.000000e-05, mu = 0.10000
+IterNum = 1, PSNR = 31.12599
+IterNum = 2, PSNR = 31.15869
+IterNum = 3, PSNR = 31.17453
+
+
+loop = 2 
+lambda = 5.000000e-05, mu = 0.10000
